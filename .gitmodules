@@ -1,0 +1,4 @@
+[submodule "iskios-llvm"]
+	path = iskios-llvm
+	url = git@github.com:roulika/iskiOS-llvm.git
+	branch = iskios-llvm-10.x
