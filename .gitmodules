@@ -2,3 +2,7 @@
 	path = iskios-llvm
 	url = git@github.com:roulika/iskiOS-llvm.git
 	branch = iskios-llvm-10.x
+[submodule "iskios-linux"]
+	path = iskios-linux
+	url = git@github.com:roulika/linux.git
+	branch = iskios-v5.7
